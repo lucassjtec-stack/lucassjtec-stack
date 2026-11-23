@@ -15,17 +15,6 @@
 ### Sobre mim
 
 - **Nome:** Lucas Silva
-- **Fase atual:** Estudante do Ensino Médio e apaixonado por desenvolvimento de jogos
-- **Foco:** Lógica de programação, game feel, prototipagem rápida e sistemas de gameplay
-- **Objetivo:** Evoluir na criação de jogos autorais e participar de game jams
-
----
-
----
-
-### Sobre mim
-
-- **Nome:** Lucas Silva
 - **Fase atual:** Estudante do Ensino Médio e aluno de Programação de Jogos
 - **Stack principal:** **Unity** e **C#**
 - **O que venho praticando:** Programação orientada a objetos, movimentação e física (`Rigidbody`), colisões, máquinas de estados, UI e gerenciamento de cenas
