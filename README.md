@@ -1,14 +1,25 @@
-<!-- Banner Reativo -->
+<!-- Banner Reativo (SVG animado via capsule-render) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:2D3436,100:0984E3&height=180&section=header&text=Lucas%20Silva&fontSize=42&fontAlignY=35&desc=Estudante%20do%20Ensino%20M%C3%A9dio%20%7C%20Unity%20%26%20C%23%20Game%20Dev&descAlignY=58&descSize=16&fontColor=ffffff&animation=twinkling" alt="Banner animado Lucas Silva" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:00CEC9,100:0984E3&height=180&section=header&text=Lucas%20Silva&fontSize=42&fontAlignY=35&desc=Estudante%20do%20Ensino%20M%C3%A9dio%20%7C%20Programador%20de%20Jogos&descAlignY=58&descSize=16&fontColor=ffffff&animation=twinkling" alt="Banner animado Lucas Silva" width="100%" />
 </p>
 
 <!-- Typing SVG Reativo -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0984E3&center=true&vCenter=true&repeat=true&width=620&lines=Desenvolvendo+jogos+com+Unity+e+C%23+%F0%9F%8E%AE;Estudante+do+Ensino+M%C3%A9dio+%7C+Game+Dev+em+formacao;Física%2C+scripts+de+gameplay+e+UI+na+prática+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00CEC9&center=true&vCenter=true&repeat=true&width=600&lines=Construindo+mundos+e+mecanicas+de+jogo+%F0%9F%8E%AE;Estudante+do+Ensino+M%C3%A9dio+%7C+Game+Dev+em+formacao;Transformando+logica+em+diversao+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
+### Sobre mim
+
+- **Nome:** Lucas Silva
+- **Fase atual:** Estudante do Ensino Médio e apaixonado por desenvolvimento de jogos
+- **Foco:** Lógica de programação, game feel, prototipagem rápida e sistemas de gameplay
+- **Objetivo:** Evoluir na criação de jogos autorais e participar de game jams
+
+---
 
 ---
 
